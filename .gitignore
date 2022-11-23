@@ -1,5 +1,4 @@
 build
-composer.lock
 docs
 vendor
 
@@ -23,3 +22,13 @@ nbproject
 # mac deployment helpers
 switch
 index
+
+# composer
+composer.lock
+
+# npm
+package.lock
+node_modules
+
+# yarn
+yarn.lock
