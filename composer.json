@@ -29,7 +29,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.45",
-        "ckeditor/ckeditor": "~4.20",
+        "ckeditor/ckeditor": "4.22",
         "sunhater/kcfinder": "*"
     },
     "require-dev": {
